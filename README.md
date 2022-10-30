@@ -15,7 +15,7 @@ This repo contains below files:
 - capstone_project.ipynb: project notebook with key results displayed
 - capstone_project.html : project notebook in html format
 - proposal.pdf          : project proposal
-- report.pdf            : project final report
+- report.pdf            : project's final report
 
 ### Project Overview
 In this project, I used Random Forest, Gated Recurrent Unit(GRU) and Long Short Term Memory neural network(LSTM) along with time series stock data to build a classification model for predicting the direction of stock price movement in the next 1 day or 2 days, and benchmarked the prediction accuracy against the Naive Method.
